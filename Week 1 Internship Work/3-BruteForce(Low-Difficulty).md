@@ -66,3 +66,7 @@ Never attempt brute force attacks on real websites, as it is **illegal and uneth
 
 👉 Bro, do you also want me to make **Medium and High Security level explanation** (how brute force behaves differently there), so your README looks more advanced?
 
+### Video Explanation
+https://drive.google.com/file/d/1af2F6BPJ_3dsz9MYJtcQVZv6xiAlDNpK/view?usp=sharing
+
+
